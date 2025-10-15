@@ -11,20 +11,29 @@
             max-width: 800px;
             margin: 0 auto;
             line-height: 1.6;
+            color: #333;
         }
         h1 {
             color: #2c3e50;
             margin-bottom: 30px;
+            font-size: 2.5em;
         }
         .services {
             margin: 40px 0;
-            padding: 20px;
+            padding: 25px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
         .contact {
             background-color: #f9f9f9;
             padding: 30px;
             margin-top: 40px;
             border-radius: 10px;
+            border-left: 4px solid #2c3e50;
+        }
+        strong {
+            color: #2c3e50;
         }
     </style>
 </head>
