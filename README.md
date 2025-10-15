@@ -1,33 +1,30 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html>
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <title>铂纳齿科 - 专业的齿科综合服务商</title>
     <style>
-        body { 
-            font-family: Arial, sans-serif; 
-            text-align: center; 
-            padding: 50px; 
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
             max-width: 800px;
             margin: 0 auto;
-        }
-        h1 { 
-            color: #2c3e50; 
-            margin-bottom: 20px;
-        }
-        p {
             line-height: 1.6;
-            margin: 15px 0;
         }
-        .contact { 
-            background-color: #f9f9f9; 
-            padding: 25px; 
-            margin-top: 40px;
-            border-radius: 8px;
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 30px;
         }
         .services {
-            margin: 30px 0;
+            margin: 40px 0;
             padding: 20px;
+        }
+        .contact {
+            background-color: #f9f9f9;
+            padding: 30px;
+            margin-top: 40px;
+            border-radius: 10px;
         }
     </style>
 </head>
